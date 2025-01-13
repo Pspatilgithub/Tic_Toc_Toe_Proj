@@ -9,5 +9,5 @@ Interactive Logic: JavaScript powers the core game logic, ensuring smooth transi
 This project is ideal for beginners looking to understand DOM manipulation, event handling, and the basics of game logic in JavaScript. It is a fun and educational way to learn front-end development!
 
 * OUTPTS:
-  img1.png
+  
   
